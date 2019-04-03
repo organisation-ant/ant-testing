@@ -1,7 +1,7 @@
 #!/bin/bash
 add()
 {
-echo "Doing Additions"
+echo "Doing Addition"
 read -p "Enter 1st Num:" fnum
 read -p "Enter 2nd Num:" snum
 result=`expr $fnum + $snum`
@@ -9,7 +9,7 @@ echo "Addition of $fnum & $snum is : $result"
 }
 sub()
 {
-echo "Doing Subractions"
+echo "Doing Subraction"
 read -p "Enter 1st Num:" fnum
 read -p "Enter 2nd Num:" snum
 result=`expr $fnum - $snum`
