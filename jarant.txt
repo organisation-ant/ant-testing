@@ -1,7 +1,5 @@
 <<<<<<< HEAD
 This is Jar ant file -- tag 1
-=======
-This is Jar ant file -- tag 2
 >>>>>>> testing
 added line jar ant
 add 3rd line
